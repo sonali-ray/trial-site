@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main className="wrap">
       <section className="hero">
-        <p className="eyebrow">Rankex Digital · Practice Build</p>
+        <p className="eyebrow">Yo Yo Honey Singh · Practice Build</p>
         <h1>
           This page is <em>live</em> because Git shipped it.
         </h1>
